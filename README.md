@@ -36,6 +36,18 @@ Your agent becomes an engineering department. Reads codebases, builds features, 
 Fully autonomous SEO operation. Keyword research, content generation, internal linking, outreach emails, performance tracking. Runs 24/7.
 **Best for:** Content sites, affiliate marketers, agencies scaling without hiring
 
+### 🎯 Sales Rep
+Your agent becomes a pipeline-driving sales machine. Lead qualification (BANT), cold email sequences, follow-up cadence, objection handling, weekly pipeline reports.
+**Best for:** SDRs, account executives, founders doing their own sales
+
+### 📋 Executive Assistant
+Your agent becomes an EA who anticipates everything. Email triage (urgent/action/FYI/archive), calendar optimization with buffer time, meeting prep packets, travel coordination.
+**Best for:** Executives, founders, anyone drowning in email and meetings
+
+### 🔬 Research Analyst
+Your agent becomes an intelligence operation. Source-ranked research with confidence levels, competitive intelligence profiles, market analysis frameworks, daily monitoring dashboards.
+**Best for:** Strategy teams, investors, consultants, competitive intelligence
+
 ## Quick Start
 
 ### 1. Pick Your Kit
@@ -59,6 +71,12 @@ mkdir -p ~/.openclaw/workspace/fitness/log
 mkdir -p ~/.openclaw/workspace/projects
 # SEO Agency:
 mkdir -p ~/.openclaw/workspace/seo/{content,reports}
+# Sales Rep:
+mkdir -p ~/.openclaw/workspace/sales/{pipeline,leads/{new,qualified,nurture},calls/meeting-notes,templates/cold-email,reports}
+# Executive Assistant:
+mkdir -p ~/.openclaw/workspace/executive/{calendar/meeting-prep,email,travel/templates,contacts,projects}
+# Research Analyst:
+mkdir -p ~/.openclaw/workspace/research/{active,reports/{deep-dives,competitive-intel,market-research},sources,methodology}
 ```
 
 ### 2. Customize
